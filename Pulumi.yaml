@@ -1,3 +1,3 @@
 name: community
 runtime: nodejs
-description: Responsible for scaffolding the Pulumiverse organisation
+description: Managing the Pulumiverse community with Pulumi: repositories, membership, access, ...
